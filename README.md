@@ -115,7 +115,7 @@ class szq:
 
 <p align="center">
 
-https://raw.githubusercontent.com/igenkis/github-snake/output/github-contribution-grid-snake-dark.svg
+<img src="https://raw.githubusercontent.com/igenkis/snake/output/github-contribution-grid-snake-dark.svg"/>
 
 </p>
 
