@@ -131,6 +131,16 @@ class Katya:
 
 <div align="center">
 
+🎮 Interests
+
+Software Testing
+
+Backend
+
+Game Development
+
+Valorant
+
 ### 💭 Philosophy
 
 *"Every project is another step toward becoming a better engineer."*
