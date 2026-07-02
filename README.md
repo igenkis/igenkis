@@ -111,6 +111,14 @@ class szq:
 - 📚 Improve Software Engineering skills
 - 🎮 Start a career in the Game Development industry
 
+## 🐍 Contributions
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/igenkis/snake/output/github-contribution-grid-snake-dark.svg"/>
+
+</p>
+
 ---
 
 # 📫 Contact
