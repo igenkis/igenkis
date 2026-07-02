@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Katya
+# 👋 Hi, I'm Katsiaryna
 
 ### Software Engineering Student • Python Developer • Future Software Engineer in Test
 
@@ -17,7 +17,7 @@
 # 💫 About Me
 
 ```python
-class Katya:
+class szq:
 
     def __init__(self):
         self.location = "Belarus 🇧🇾"
