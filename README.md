@@ -2,9 +2,9 @@
 
 # 👋 Hi, I'm Katsiaryna
 
-### Software Engineering Student • Python Developer • Future Software Engineer in Test
+### Software Engineering Student • Python Developer • Aspiring Software Engineer in Test
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3500&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+software+with+Python;Learning+Software+Testing;Passionate+about+Game+Development;Always+improving+every+day." />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3500&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+software+with+Python;Learning+Software+Testing;Passionate+about+Game+Development;Always+improving+every+day."/>
 
 <br>
 
@@ -14,10 +14,10 @@
 
 ---
 
-# About Me
+# 👨‍💻 About Me
 
 ```python
-class szq:
+class Katsiaryna:
 
     def __init__(self):
         self.location = "Belarus 🇧🇾"
@@ -27,6 +27,13 @@ class szq:
             "Python"
         ]
 
+        self.current_learning = [
+            "Git",
+            "GitHub",
+            "Pytest",
+            "REST API"
+        ]
+
         self.interests = [
             "Software Testing",
             "Automation",
@@ -34,26 +41,22 @@ class szq:
             "Game Development"
         ]
 
-        self.current_focus = [
-            "Python",
-            "Git",
-            "Pytest",
-            "REST API"
-        ]
-
     def motto(self):
         return "Keep building. Keep learning."
+
+    def coffee(self):
+        return True
 ```
 
 ---
 
-# ⚡ Tech Stack
+# ⚙️ Tech Stack
 
-<p align="center">
+<div align="center">
 
 <img src="https://skillicons.dev/icons?i=python,git,github,vscode,html,css,sqlite&perline=7"/>
 
-</p>
+</div>
 
 ---
 
@@ -62,96 +65,69 @@ class szq:
 ```text
 ███████████████████████████░░░░░░░░░░  Python
 
-███████████████████████░░░░░░░░░░░░░░  Git & GitHub
+█████████████████████████░░░░░░░░░░░░  Git & GitHub
 
-███████████████░░░░░░░░░░░░░░░░░░░░░░  Pytest
+██████████████████░░░░░░░░░░░░░░░░░░░  Pytest
 
-████████████░░░░░░░░░░░░░░░░░░░░░░░░░  REST API
-
+████████████████░░░░░░░░░░░░░░░░░░░░░  REST API
 ```
 
 ---
 
-# 📂 Featured Projects
+# 📂 Current Projects
 
-| Project | Description |
-|---------|-------------|
-| 🎮 Valorant Tracker | Desktop application for tracking player statistics |
-| 📖 Diary Website | Personal web diary built with Python |
-| 📁 File Sorter | Utility for automatic file organization |
-| 🔐 Password Generator | Secure password generation tool |
-
----
-
-# 📈 GitHub Statistics
-
-<p align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=igenkis&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"/>
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igenkis&layout=compact&theme=github_dark&hide_border=true"/>
-
-</p>
+| Project | Status | Description |
+|---------|:------:|-------------|
+| 🎮 Valorant Tracker | 🚧 In Progress | Desktop application for tracking player statistics |
+| 📖 Diary Website | 🚧 In Progress | Personal diary website built with Python |
+| 🧪 Test Automation | 📅 Planned | Learning automated testing with Pytest |
+| 🌐 REST API Client | 📅 Planned | Practice project for working with APIs |
 
 ---
 
-<p align="center">
+# 🎯 Current Goals
 
-<img src="https://streak-stats.demolab.com?user=igenkis&theme=github-dark-blue&hide_border=true"/>
-
-</p>
-
----
-
-# 🎯 2026 Goals
-
-- 🐍 Master Python
-- 🧪 Learn Test Automation
-- ⚙️ Build useful projects
-- 📚 Improve Software Engineering skills
+- 🐍 Improve Python skills
+- 🧪 Learn automated testing with Pytest
+- ⚙️ Build production-quality pet projects
+- 🌐 Master REST API fundamentals
 - 🎮 Start a career in the Game Development industry
 
-## 🐍 Contributions
+---
 
-<p align="center">
+# 🎮 Interests
 
-<img src="https://raw.githubusercontent.com/igenkis/snake/output/github-contribution-grid-snake-dark.svg"/>
-
-</p>
+| Area | Focus |
+|------|-------|
+| 🧪 | Software Testing |
+| ⚙️ | Automation |
+| 💻 | Backend Development |
+| 🎮 | Game Development |
+| 🎯 | Valorant |
 
 ---
 
 # 📫 Contact
 
-<p align="center">
+<div align="center">
 
 <a href="mailto:swagggishb@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://t.me/sozaqwq">
 <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
 </a>
 
-</p>
+</div>
 
 ---
 
 <div align="center">
 
-🎮 Interests
+## 💭 Philosophy
 
-Software Testing
-
-Backend
-
-Game Development
-
-Valorant
-
-### 💭 Philosophy
-
-*"Every project is another step toward becoming a better engineer."*
+> *"Every project is another step toward becoming a better engineer."*
 
 <br>
 
