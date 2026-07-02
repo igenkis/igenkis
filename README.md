@@ -2,81 +2,141 @@
 
 # 👋 Hi, I'm Katya
 
-### Python Developer • Software Engineering Student • Future Software Engineer in Test
+### Software Engineering Student • Python Developer • Future Software Engineer in Test
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3500&pause=1000&color=4EA1FF&center=true&vCenter=true&width=650&lines=Building+projects+with+Python;Learning+Software+Testing;Interested+in+Game+Development;Always+improving." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3500&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+software+with+Python;Learning+Software+Testing;Passionate+about+Game+Development;Always+improving+every+day." />
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=igenkis&label=Profile+Views&color=0e75b6&style=flat"/>
 
 </div>
 
 ---
 
-## 🚀 About Me
+# 💫 About Me
 
-I'm a Software Engineering student who enjoys building software, learning new technologies and solving problems.
+```python
+class Katya:
 
-Currently focused on:
+    def __init__(self):
+        self.location = "Belarus 🇧🇾"
+        self.role = "Software Engineering Student"
 
-- 🐍 Python development
-- 🧪 Software Testing
-- ⚙️ Automation
-- 🎮 Game technologies
-- 📚 Continuous learning
+        self.languages = [
+            "Python"
+        ]
 
-I enjoy understanding how systems work, improving code quality and creating projects that are both useful and well-designed.
+        self.interests = [
+            "Software Testing",
+            "Automation",
+            "Backend Development",
+            "Game Development"
+        ]
+
+        self.current_focus = [
+            "Python",
+            "Git",
+            "Pytest",
+            "REST API"
+        ]
+
+    def motto(self):
+        return "Keep building. Keep learning."
+```
 
 ---
 
-## 💻 Tech Stack
+# ⚡ Tech Stack
 
-<p>
+<p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,git,github,vscode,html,css,sqlite"/>
+<img src="https://skillicons.dev/icons?i=python,git,github,vscode,html,css,sqlite&perline=7"/>
 
 </p>
 
-Currently learning:
+---
 
-- Pytest
-- Selenium / Playwright
-- REST API
-- SQL
-- CI/CD
+# 🚀 Currently Learning
+
+```text
+███████████████████████████░░░░░░░░░░  Python
+
+███████████████████████░░░░░░░░░░░░░░  Git & GitHub
+
+███████████████░░░░░░░░░░░░░░░░░░░░░░  Pytest
+
+████████████░░░░░░░░░░░░░░░░░░░░░░░░░  REST API
+
+```
 
 ---
 
-## 📂 Featured Projects
+# 📂 Featured Projects
 
 | Project | Description |
 |---------|-------------|
 | 🎮 Valorant Tracker | Desktop application for tracking player statistics |
-| 📖 Diary Website | Personal diary built with Python |
-| 🔐 Password Generator | Secure password generator |
-| 📁 File Sorter | Automatic file organization utility |
+| 📖 Diary Website | Personal web diary built with Python |
+| 📁 File Sorter | Utility for automatic file organization |
+| 🔐 Password Generator | Secure password generation tool |
 
 ---
 
-## 🎯 Current Goals
+# 📈 GitHub Statistics
 
-- Build high-quality Python projects
-- Learn automated testing
-- Improve software engineering skills
-- Contribute to open-source
-- Join the game development industry
+<p align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=igenkis&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"/>
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igenkis&layout=compact&theme=github_dark&hide_border=true"/>
+
+</p>
 
 ---
 
-## 📫 Contact
+<p align="center">
 
-Telegram: **@sozaqwq**
+<img src="https://streak-stats.demolab.com?user=igenkis&theme=github-dark-blue&hide_border=true"/>
 
-Email: **swagggishb@gmail.com**
+</p>
+
+---
+
+# 🎯 2026 Goals
+
+- 🐍 Master Python
+- 🧪 Learn Test Automation
+- ⚙️ Build useful projects
+- 📚 Improve Software Engineering skills
+- 🎮 Start a career in the Game Development industry
+
+---
+
+# 📫 Contact
+
+<p align="center">
+
+<a href="mailto:swagggishb@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://t.me/sozaqwq">
+<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
+</a>
+
+</p>
 
 ---
 
 <div align="center">
 
-> *"Code is not just about making things work. It's about making them better."*
+### 💭 Philosophy
 
-⭐ Thanks for visiting my profile!
+*"Every project is another step toward becoming a better engineer."*
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0D1117,100:238636&section=footer"/>
 
 </div>
